@@ -12,6 +12,13 @@ The design philosophy is **editorial minimalism**: a warm, cream-and-gold palett
 
 ---
 
+## 📝 Project Description
+
+The Human Journey project, titled "Odyssey of Life," is an interactive web experience...
+(paste your full paragraph here)
+
+---
+
 ## ✅ Mandatory Requirements Met
 
 ### Story Structure (5+ Sections)
